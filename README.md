@@ -7,4 +7,5 @@ Majored in flight dynamics and control(M.S)
 > Nonlinear flight control techinques based on dynamic inversion with chattering free sliding mode control(2017)  
 > Superviser : Sanghyuk Park, Professor, Korea Aerospace Univ.
 
-Curruntly working at Digital Innobation, Doosan Corporation.
+Curruntly Ph.D candidate in Korea Aerospace Univ
+> Superviser : Sanghyuk Park, Professor, Korea Aerospace Univ.
