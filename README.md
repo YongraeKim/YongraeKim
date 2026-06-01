@@ -1,6 +1,6 @@
 ### Yongrae Kim, Ph.D. in Aerospace Engineering.
 
-Guidance, Navigation and Control engineer on Mobility One Inc.
+Guidance, Navigation and Control Engineer on Mobility One Inc.
 
 ### Ph.D. thesis
 > A Study for Fixed-Inclined Rotor VTOL UAV with Slipstream Control Device(2026.02)
