@@ -1,12 +1,11 @@
-### Yongrae Kim
+### Yongrae Kim, Ph.D. in Aerospace Engineering.
 
-Flight control software engineer based on PX4 platforms
-Majored in flight dynamics and control(M.S)
-Currently on a Ph.D. course at Korea Aerospace University(Flight Dynamics and Control Laboratory)
+Guidance, Navigation and Control engineer on Mobility One Inc.
 
-### M.S thesis
-> Nonlinear flight control techinques based on dynamic inversion with chattering free sliding mode control(2017)  
+### Ph.D. thesis
+> A Study for Fixed-Inclined Rotor VTOL UAV with Slipstream Control Device(2026.02)
 > Superviser : Sanghyuk Park, Professor, Korea Aerospace Univ.
 
-Curruntly Ph.D candidate in Korea Aerospace Univ
+### M.S thesis
+> Nonlinear flight control techinques based on dynamic inversion with chattering free sliding mode control(2017.02)  
 > Superviser : Sanghyuk Park, Professor, Korea Aerospace Univ.
